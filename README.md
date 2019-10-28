@@ -5,7 +5,7 @@
 - conda
 - python > 3.6
 
-## 系统开发与测试
+## 系统开发
 
 - tensorflow serving
 - flask
@@ -22,5 +22,6 @@
 - gitlab 
 - k8s 
 - docker
+- [kubernetes](https://kubernetes.io/)
 
 具体参考General:CI/CD
