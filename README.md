@@ -32,11 +32,17 @@
 - flask
 - flask-restplus
 - pydash
+- dotenv
+- fabric
+- pyinvoke
+- gunicorn
 
 ## 系统测试
 
 - pytest
 - nose
+- locust
+- mitmproxy
 
 ## 日志收集
 
