@@ -5,12 +5,38 @@
 - conda
 - python > 3.6
 
+
+## 数据处理与机器学习
+
+- numpy
+- pandas
+- scikit-learn
+- scipy
+- matplotlib
+
+## 深度学习
+
+- tensorflow
+- pytorch
+- keras
+
+## NLP
+
+- nltk
+- spacy
+- bert
+
 ## 系统开发
 
 - tensorflow serving
 - flask
 - flask-restplus
 - pydash
+
+## 系统测试
+
+- pytest
+- nose
 
 ## 日志收集
 
