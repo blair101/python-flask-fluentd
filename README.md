@@ -40,7 +40,7 @@
 ## 系统测试
 
 - pytest
-- nose
+- [nose](https://nose.readthedocs.io/en/latest/)
 - locust
 - mitmproxy
 
